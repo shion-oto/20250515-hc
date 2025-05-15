@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+body {
+    background-color: darkgray;
+}
+
+h1 {
+    color: red;
+    font-size: 50px;
+}
+
+p {
+    color: gold;
+    font-size: 24px;
+}
